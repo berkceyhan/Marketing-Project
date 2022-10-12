@@ -1,0 +1,875 @@
+prod_id;Group;Description
+10101;Sweet snacks;Patisserie
+10102;Sweet snacks;Wafers
+10103;Sweet snacks;Sweet snacks
+10104;Sweet snacks;Cookies
+10105;Sweet snacks;Cakes
+10106;Sweet snacks;Rusks
+10107;Cereals;Breakfast cereals
+10108;Sweet snacks;Gluten free snacks
+10109;Sweet snacks;Other for breakfast
+10110;Sweet snacks;Healthy biscuits
+10111;Sweet snacks;Wholegrain biscuits
+10112;Sweet snacks;Biscuits with eggs
+10201;Candies;Bubble gum
+10202;Candies;Bonbon
+10203;Candies;Sweet snacks 
+10204;Candies;Small chocolate eggs
+10205;Candies;Full chocolate eggs
+10206;Candies;Chocolate bars
+10207;Candies;Other sweet snacks
+10208;Candies;Chocolate balls
+10209;Candies;Ready to freeze sweets
+10210;Candies;Kit for sweet snacks
+10301;Savory Snacks;Other savory snacks
+10302;Savory Snacks;Extruded snacks
+10303;Savory Snacks;chips
+10305;Savory Snacks;POP CORN
+10306;Savory Snacks;Kit for savory snacks
+10401;Savory Snacks;Ethnic snacks
+10501;Salad dressings;Vinegar
+10502;Salad dressings;Olive Oil
+10503;Salad dressings;E.V. olive oil
+10504;Salad dressings;Low quality olive oil
+10505;Salad dressings;Grain/seed oil
+10506;Salad dressings;Lemon juice
+10507;Salad dressings;Other dressings
+10508;Salad dressings;Glace for dressing
+10601;Canned meat/fish;Canned meat
+10603;Canned meat/fish;Preserved fish (others)
+10604;Canned meat/fish;Paté and savory creams
+10605;Canned meat/fish;Canned tuna (oil)
+10606;Canned meat/fish;Canned tuna (natural)
+10607;Canned meat/fish;Canned tuna with vegetables
+10608;Canned meat/fish;Other canned meat/fish
+10801;Dressings;Salt
+10802;Dressings;Spices
+10803;Dressings;Broth and gel preparations
+10805;Dressings;Herbal dressings
+10806;Dressings;Other dressings
+10901;Sauce;Ready made sauce
+10902;Sauce;Other sauces
+10903;Sauce;mayonnaise
+10904;Sauce;Vegetarian sauces
+11001;Bread;Crackers
+11002;Bread;Substitute of bread
+11003;Bread;Breadsticks
+11004;Bread;White bread
+11005;Bread;Sandwich bread
+11006;Bread;Bread to cook
+11008;Bread;Preserved bread
+11009;Bread;Buns
+11010;Panko;Panko
+11011;Panko;Crespi bread
+11012;Bread;Gluten free bakery
+11101;Made food;Prepared soups
+11102;Made food;Pizzas and pizza ingredients
+11103;Made food;Ready made sides
+11104;Made food;Other ready made
+11105;Made food;Vegetarian ready made dishes
+11201;Diet supplements;Sweetener
+11202;Diet supplements;Dietary supplements
+11203;Diet supplements;Integrators and vitamins
+11301;Baby food;Baby biscuits
+11302;Baby food;babyfood
+11303;Baby food;Cereals and flours for baby
+11304;Baby food;Baby juices
+11305;Baby food;Baby de-hydrated food
+11306;Baby food;Tea/camomille for babies
+11307;Baby food;Baby milk
+11308;Baby food;Healthy soups for babies
+11310;Baby food;Ready meals for babies
+11311;Baby food;Other baby food
+11401;Coffee;Ground coffee
+11402;Coffee;Soluble coffee
+11403;Coffee;Barley and substitutes of coffee
+11404;Tea;Tea
+11405;Tea;Camomille
+11406;Tea;Other infused
+11407;Sweet milk;Milk modifiers
+11408;Sweet milk;Condensed milk
+11409;Coffee;Coffee beans
+11501;Pasta;Dumplings/gnocchi
+11502;Pasta;Pasta
+11504;Pasta;Wholegrain pasta
+11505;Pasta;Flavoured pasta
+11506;Pasta;Eggs pasta
+11507;Pasta;Gluten free pasta
+11601;Rice;White rice
+11602;Rice;Parboiled rice
+11605;Rice;Rice specialties
+11701;Baking products;Sugar
+11702;Baking products;Flour
+11704;Baking products;Bakery ingredients
+11705;Baking products;Cakes ingredients
+11706;Baking products;Dessert ingredients
+11801;Cheese;UHT cheese
+11802;Milk;UHT milk
+11803;Sweet milk;UHT cream
+11804;Sweet snacks;UHT dessert
+11805;Sauce;UHT besciamelle
+11806;Milk;Milk based UHT drinks
+11807;Milk;UHT vegetable milk
+11901;Jam;Jam
+11902;Jam;Nutella and similar
+11903;Jam;Honey
+12001;Festivity sweets;Panettone
+12002;Festivity sweets;Pandoro
+12003;Festivity sweets;Other Christmas sweets
+12004;Festivity sweets;Easter eggs
+12005;Festivity sweets;Easter colomba
+12006;Festivity sweets;Other easter sweets
+12007;Festivity sweets;Gift boxes
+12008;Festivity sweets;Torrone
+12009;Festivity sweets;Other festivity foods
+12010;Festivity sweets;Gluten free festivity foods
+12101;Tomato sauce;Peeled tomato
+12102;Tomato sauce;Canned tomato pulp
+12103;Tomato sauce;Condensed tomato
+12104;Tomato sauce;Tomato sauce
+12201;Dried food;Dried beans
+12202;Dried food;Dried mushrooms
+12203;Dried food;Nuts with shell
+12204;Dried food;Dried fruits
+12205;Dried food;Nuts without shell
+12206;Dried food;Grains
+12301;Canned/jar vegetables;Canned peas
+12302;Canned/jar vegetables;Canned beans
+12303;Canned/jar vegetables;Other canned vegetables/cereals
+12304;Canned/jar vegetables;Pickles
+12305;Canned/jar vegetables;Vegetables in oil
+12306;Canned/jar vegetables;Olives
+12401;Fruit in different presentations;Fruit in spirits
+12402;Fruit in different presentations;Fuit mustard
+12403;Fruit in different presentations;Preserved fruits
+12501;Cereals;Cereals
+20101;Water;Sparkling water
+20102;Water;Lightly sparkling water
+20103;Water;Naturally sparkling water
+20104;Water;Still water
+20201;Sparkling wine;CHAMPAGNE
+20202;Sparkling wine;Spumante
+20203;Sparkling wine;Sweet sparkling wine
+20204;Sparkling wine;Dry sparkling wine
+20301;Wine;Italian DOC/DOCG wine
+20302;Wine;General Italian wine
+20303;Wine;Foreign wine
+20304;Wine;Sweet wine italy
+20305;Wine;Sweet wine foreign
+20306;Wine;IGP/IGT Italian wine
+20309;Wine;Bulk wine
+20401;Spirits;Brown spirits
+20402;Spirits;White spirits
+20404;Spirits;Other spirits
+20405;Spirits;Long drinks
+20501;Soft drinks;Soft drinks
+20502;Aperitivo drinks;Alcoholic aperitivo drinks
+20601;Soft drinks;Tea-based drinks
+20602;Soft drinks;Other soft drinks
+20604;Soft drinks;Flavoured water
+20701;Sparkling soft drinks;Cola
+20702;Sparkling soft drinks;Orange soft drinks
+20703;Sparkling soft drinks;Other sparkling soft drinks
+20704;Sparkling soft drinks;Energy drink
+20801;Fruit juices;Fruit juices
+20802;Fruit juices;Fruit juices
+20803;Fruit juices;Fruit juices
+20804;Fruit juices;Fruit juices
+20805;Fruit juices;Fruit juices
+20806;Fruit juices;Fruit juices
+20902;Fruit syrups;Fruit syrups
+20903;Fruit syrups;Fruit syrups
+20904;Baking soda;Baking soda
+21001;Alcohol-free beer;Alcohol-free beer
+21003;Beer;Beer
+30101;Cheese;Mozzarella
+30102;Cheese;Fresh cheese
+30103;Cheese;Parmesan
+30104;Cooking cheese;Ricotta
+30105;Cheese;Cheese
+30106;Cheese;Fresh cheese
+30107;Cheese;Mozzarella
+30108;Cheese;Other cheese
+30109;Cheese;Cheese
+30110;Cooking cheese;Mascarpone
+30111;Sliced cheese;Packaged cheese
+30112;Sliced cheese;Sliced cheese
+30114;Sliced cheese;Sliced cheese
+30202;Yogurt;Yogurt dessert
+30203;Yogurt;Drinkable yogurt
+30206;Yogurt;Healthy yougurt
+30207;Yogurt;Plain yogurt
+30208;Yogurt;Low-fat yogurt
+30209;Yogurt;Vegan yogurt
+30210;Yogurt;Greek yogurt
+30301;Fresh sweets;Fresh sweets
+30303;Fresh sweets;Fresh sweets
+30304;Fresh sweets;Fresh sweets
+30305;Fresh sweets;Fresh sweets
+30401;Milk;Fresh milk
+30402;Sweet milk;Fresh cream
+30403;Yogurt;Kefir
+30501;Butter;Butter
+30502;Cooking oil;Vegetable grease
+30503;Cooking oil;Lard
+30601;Coldcuts;Coldcuts
+30602;Coldcuts;Coldcuts
+30603;Coldcuts;Coldcuts
+30701;Precooked pork;Wiener/Wurstel
+30702;Precooked pork;Precooked pork
+30802;Baking products;Base for pizza
+30804;Baking products;Yeast
+30806;Baking products;Sweet preparations
+30808;Bread;Fresh bread
+30809;Bread;Fresh bread
+30810;Bread;Substitutes of fresh bread
+30811;Bread;Gluten free fresh products
+30901;Gastronomy;Gastronomy first courses
+30905;Gastronomy;Gastronomy - fish
+30906;Gastronomy;Gastronomy - sauce
+30907;Gastronomy;Gastonomy - Pizza
+30908;Gastronomy;Gastronomy - Savory snacks
+30910;Gastronomy;Other gastronomy
+30911;Gastronomy;Gastronomy - sauce
+30912;Gastronomy;Gastronomy - vegetables
+30913;Gastronomy;Gastronomy - fish
+30914;Gastronomy;Gastronomy - snacks
+31001;Pasta;Ravioli/dumplings (fresh)
+31002;Pasta;Fresh pasta
+31003;Pasta;Gluten free fresh pasta
+31101;Eggs;Eggs
+31102;Eggs;Non chicken eggs
+31202;Fancy juice;Fresh juices
+31203;Fancy juice;Shakes
+31204;Fancy juice;Vegan milk
+31205;Fancy juice;Other fresh drinks
+31301;Vegetarian/vegan food;Vegetarian/vegan food
+31302;Vegetarian/vegan food;Vegetarian/vegan food
+31303;Vegetarian/vegan food;Vegetarian/vegan food
+31304;Vegetarian/vegan food;Vegetarian/vegan food
+31305;Vegetarian/vegan food;Vegetarian/vegan food
+31306;Vegetarian/vegan food;Vegetarian/vegan food
+31307;Vegetarian/vegan food;Vegetarian/vegan food
+40101;Ice cream;Single-serve icecream
+40102;Ice cream;Ice cream
+40103;Ice cream;Ice cream
+40104;Ice cream;Ice cream
+40201;Frozen meals;Frozen meat
+40202;Frozen meals;Frozen pizza
+40203;Frozen meals;Frozen ready meals
+40205;Frozen meals;Frozen bakery
+40206;Frozen meals;Frozen fish
+40207;Frozen meals;Frozen fish
+40208;Frozen meals;Frozen sweets
+40209;Frozen meals;Frozen meals
+40210;Frozen meals;Frozen sauce
+40211;Frozen meals;Frozen vegetables
+40212;Frozen meals;Frozen vegetables
+40213;Frozen meals;Gluten free frozen food
+50101;House cleaning detergents;House cleaning detergents
+50102;House cleaning detergents;House cleaning detergents
+50103;House cleaning detergents;House cleaning detergents
+50104;House cleaning detergents;House cleaning detergents
+50105;House cleaning detergents;House cleaning detergents
+50106;House cleaning detergents;House cleaning detergents
+50107;House cleaning detergents;House cleaning detergents
+50113;House cleaning detergents;House cleaning detergents
+50201;Cleaning products;Acids
+50202;Cleaning products;Demineralized water
+50203;Cleaning products;White spirit
+50204;Cleaning products;Alcohol
+50205;Cleaning products;Ammonium
+50206;Cleaning products;Soda
+50301;Dishwashing machine soap;Dishwashing machine soap
+50302;Dishwashing machine soap;Dishwashing machine soap
+50303;Dishwashing machine soap;Dishwashing soap
+50401;Paper and disposable tools;Paper and disposable tools
+50402;Paper and disposable tools;Paper and disposable tools
+50403;Paper and disposable tools;Paper and disposable tools
+50404;Paper and disposable tools;Paper and disposable tools
+50405;Paper and disposable tools;Paper and disposable tools
+50406;Paper and disposable tools;Paper and disposable tools
+50407;Paper and disposable tools;Paper and disposable tools
+50501;Gloves and tools for cleaning;Gloves and tools for cleaning
+50502;Gloves and tools for cleaning;Gloves and tools for cleaning
+50503;Gloves and tools for cleaning;Gloves and tools for cleaning
+50504;Gloves and tools for cleaning;Gloves and tools for cleaning
+50505;Gloves and tools for cleaning;Gloves and tools for cleaning
+50507;Gloves and tools for cleaning;Gloves and tools for cleaning
+50601;Home perfumes and similar;Home perfumes and similar
+50602;Home perfumes and similar;Home perfumes and similar
+50603;Home perfumes and similar;Home perfumes and similar
+50604;Home perfumes and similar;Home perfumes and similar
+50605;Home perfumes and similar;Home perfumes and similar
+50702;Insecticides;Insecticides
+50703;Insecticides;Insecticides
+50704;Insecticides;Insecticides
+50801;Laundry soap;Laundry soap
+50802;Laundry soap;Laundry soap
+50803;Laundry soap;Laundry soap
+50805;Laundry soap;Laundry soap
+50901;Laundry soap;Laundry soap
+50902;Laundry soap;Laundry soap
+50903;Laundry soap;Laundry soap
+50904;Laundry soap;Laundry soap
+50905;Laundry soap;Laundry soap
+50906;Laundry soap;Laundry soap
+50907;Laundry soap;Laundry soap
+50908;Laundry soap;Laundry soap
+51001;Laundry soap;Laundry soap
+51002;Laundry soap;Laundry soap
+60101;Toilet paper;Cotton and handkerchiefs
+60102;Toilet paper;Cotton and handkerchiefs
+60103;Toilet paper;Cotton and handkerchiefs
+60104;Toilet paper;Cotton and handkerchiefs
+60105;Toilet paper;Toilet paper
+60106;Toilet paper;Sanitary napkins
+60107;Toilet paper;Sanitary napkins
+60108;Toilet paper;Sanitary napkins
+60109;Toilet paper;Sanitary napkins
+60201;Personal care;Personal care
+60202;Personal care;Personal care
+60203;Personal care;Bath oils/salts
+60204;Personal care;Personal care
+60205;Personal care;Personal deodorant
+60206;Personal care;Personal deodorant
+60207;Personal care;Personal care accessories
+60208;Personal care;Personal care accessories
+60301;Baby products;Baby diapers
+60302;Baby products;Baby products
+60303;Baby products;Baby products
+60304;Baby products;Baby products
+60401;Mouth care;Denture care
+60402;Mouth care;Mouth care
+60403;Mouth care;Mouth care
+60404;Mouth care;Mouth care
+60405;Mouth care;Mouth care
+60406;Mouth care;Mouth care
+60407;Mouth care;Mouth care
+60408;Mouth care;Mouth care
+60501;Shaving;shaving and beard care
+60502;Shaving;shaving and beard care
+60503;Shaving;shaving and beard care
+60504;Shaving;shaving and beard care
+60505;Shaving;Female Shaving
+60506;Shaving;Female Shaving
+60507;Shaving;Female Shaving
+60508;Shaving;Other (shaving)
+60601;Shampoo and hair treatments;Hair balms
+60602;Shampoo and hair treatments;Shampoo and hair treatments
+60603;Shampoo and hair treatments;Shampoo and hair treatments
+60604;Shampoo and hair treatments;Shampoo and hair treatments
+60605;Shampoo and hair treatments;Shampoo and hair treatments
+60606;Shampoo and hair treatments;Shampoo and hair treatments
+60607;Shampoo and hair treatments;Shampoo and hair treatments
+60701;Sun cream;Sun creams
+60702;Creams;Body creams
+60703;Hand creams;Hand creams
+60704;Creams;Personal care treatments
+60705;Creams;Personal care treatments
+60706;Creams;Personal care treatments
+60707;Creams;Personal care treatments
+60801;Face cleaning;Face cleaning
+60802;Face cleaning;Face cleaning
+60803;Face cleaning;Face care (women)
+60804;Face cleaning;Face care (women)
+60805;Face cleaning;Face care (man)
+60806;Face cleaning;Other face care
+60901;Perfume;Man perfume
+60902;Perfume;Women perfume
+60903;Perfume;Unisex perfume
+60904;Perfume;Man perfume
+60905;Baby products;Baby perfumes
+61001;Cosmetics;Lip cosmetics
+61002;Cosmetics;Face cosmetics
+61003;Cosmetics;Eye cosmetics
+61004;Cosmetics;Nail cosmetics
+61005;Cosmetics;Make up accessories
+61006;Cosmetics;Make up
+61007;Cosmetics;Body cosmetics
+61101;First aid;First aid
+61102;First aid;First aid
+61103;First aid;First aid
+61201;Cosmetics;Other cosmetics and fist aid
+70101;Pets;Dog food
+70102;Pets;Dog care
+70103;Pets;Dog accessories
+70201;Pets;Cat food
+70202;Pets;Cat care
+70203;Pets;Cat accessories
+70204;Pets;Cat accessories
+70301;Pets;Other pet care
+80102;Vegetables;Ready vegetables
+80103;Vegetables;Ready vegetables
+80104;Vegetables;Fresh herbs
+80126;Vegetables;Garlic
+80127;Vegetables;Asparagus
+80128;Vegetables;Artichoke
+80129;Vegetables;Thistles
+80130;Vegetables;Carrots
+80131;Vegetables;Cabbages
+80135;Vegetables;Green beans
+80136;Vegetables;Fennel
+80137;Vegetables;Mushroom
+80138;Vegetables;Salad
+80139;Vegetables;Salad
+80140;Vegetables;Eggplants
+80141;Vegetables;Potato
+80142;Vegetables;Peppers
+80143;Vegetables;Tomato
+80144;Vegetables;Aromatic vegetables (vases)
+80145;Vegetables;Salad
+80146;Vegetables;Fresh vegetables
+80147;Vegetables;Fresh vegetables
+80148;Vegetables;Fresh vegetables
+80149;Vegetables;Fresh vegetables
+80150;Vegetables;Fresh vegetables
+80151;Vegetables;Pumpkins
+80152;Vegetables;Zucchini
+80153;Vegetables;Other vegetable
+80154;Vegetables;Onion
+80155;Vegetables;Fresh vegetables
+80201;Fruit;Orange
+80202;Fruit;Tangerine
+80203;Fruit;Tangerine
+80204;Fruit;Tangerine
+80205;Fruit;Other citrus
+80206;Fruit;Lemon
+80207;Fruit;Apples
+80208;Fruit;Pears
+80209;Fruit;Grape
+80210;Fruit;Peach
+80211;Fruit;Plum
+80212;Fruit;Plum
+80213;Fruit;Apricot
+80214;Fruit;Cherry
+80215;Fruit;KAKI
+80216;Fruit;Figs
+80217;Fruit;Chesnuts
+80218;Fruit;Watermelon
+80219;Fruit;Mellon
+80220;Fruit;Banana
+80221;Fruit;Kiwi
+80222;Fruit;Other fruit
+80223;Fruit;Other fruit
+80224;Fruit;Other fruit
+80225;Fruit;Strawberry
+80226;Fruit;Other fruit
+90101;Meat;Beef
+90102;Meat;Veal
+90103;Meat;Veal
+90104;Meat;Veal
+90105;Meat;Pre-cooked beef
+90106;Meat;Pre-cooked beef
+90201;Meat;Pork
+90202;Meat;Pre-cooked pork
+90203;Meat;Pre-cooked pork
+90301;Meat;Chicken
+90302;Meat;Chicken
+90303;Meat;Chicken
+90304;Meat;Chicken
+90305;Meat;Turkey
+90306;Meat;Other poultry
+90307;Meat;Other poultry
+90308;Meat;Other poultry
+90309;Meat;Other poultry
+90310;Meat;Rabbit
+90311;Meat;Pre-cooked poultry
+90312;Meat;Pre-cooked poultry
+90401;Meat;Horse
+90402;Meat;Horse
+90403;Meat;Pre-cooked horse
+90501;Meat;Lamb
+90502;Meat;Lamb
+90503;Meat;Sheep/goat
+90504;Meat;Sheep/goat
+90505;Meat;Sheep/goat
+90506;Meat;Pre-cooked sheep/goat
+90601;Meat;Ostrich
+90602;Meat;Buffalo
+90603;Meat;Bison
+90604;Meat;Deer
+90605;Meat;Wild animals
+90606;Meat;Other meat
+100101;Fish;Fresh sea fish
+100102;Fish;Fresh sea fish
+100103;Fish;River/lake fish
+100104;Fish;Fresh sea fish
+100105;Fish;River/lake fish
+100106;Fish;River/lake fish
+100107;Fish;Fresh sea fish
+100108;Fish;Fresh sea fish
+100109;Fish;Fresh sea fish
+100110;Fish;Fresh sea fish
+100111;Fish;Fresh sea fish
+100112;Fish;Fresh sea fish
+100113;Fish;Fresh sea fish
+100114;Fish;Fresh sea fish
+100115;Fish;Fresh sea fish
+100116;Fish;Fresh sea fish
+100117;Fish;Fresh sea fish
+100118;Fish;Fresh sea fish
+100119;Fish;Fresh sea fish
+100120;Fish;Fresh sea fish
+100121;Fish;Fresh sea fish
+100122;Fish;Fresh sea fish
+100201;Fish;Fresh clams
+100202;Fish;Fresh clams
+100203;Fish;Fresh clams
+100204;Fish;Fresh clams
+100301;Fish;Fresh clams
+100302;Fish;Fresh clams
+100303;Fish;Fresh clams
+100304;Fish;Fresh clams
+100401;Fish;Fresh shellfish
+100402;Fish;Fresh shellfish
+100403;Fish;Fresh shellfish
+100404;Fish;Fresh shellfish
+100501;Fish;Defrost fish
+100502;Fish;Defrost fish
+100503;Fish;Defrost fish
+100504;Fish;Defrost fish
+100505;Fish;Defrost fish
+100506;Fish;Defrost fish
+100507;Fish;Defrost clams/shellfish
+100508;Fish;Defrost clams/shellfish
+100509;Fish;Defrost clams/shellfish
+100510;Fish;Defrost clams/shellfish
+100511;Fish;Defrost clams/shellfish
+100512;Fish;Defrost clams/shellfish
+100513;Fish;Defrost clams/shellfish
+100601;Fish;Fresh prepared fish
+100602;Fish;Fresh prepared fish
+100603;Fish;Fresh prepared fish
+100604;Fish;Fresh prepared fish
+100605;Fish;Fresh prepared fish
+100606;Fish;Fresh prepared fish
+100607;Fish;Fresh prepared fish
+100608;Fish;Fresh prepared fish
+100609;Fish;Fresh prepared fish
+100610;Fish;Fresh prepared fish
+100611;Fish;Fresh prepared fish
+100612;Fish;Fresh prepared fish
+100613;Fish;Fresh prepared fish
+100614;Fish;Fresh prepared fish
+100615;Fish;Fresh prepared fish
+100616;Fish;Fresh prepared fish
+100617;Fish;Fresh prepared fish
+100618;Fish;Fresh prepared fish
+100619;Fish;Fresh prepared fish
+100620;Fish;Fresh prepared fish
+100621;Fish;Fresh prepared fish
+100622;Fish;Fresh prepared fish
+100623;Fish;Fresh prepared fish
+100624;Fish;Fresh prepared fish
+100625;Fish;Fresh prepared fish
+100626;Fish;Fresh prepared fish
+100627;Fish;Fresh prepared fish
+100628;Fish;Fresh prepared fish
+100701;Fish;Other fish products
+100801;Fish;Frozen fish
+100802;Fish;Frozen fish
+100803;Fish;Frozen fish
+100804;Fish;Frozen fish
+100805;Fish;Frozen fish
+100806;Fish;Frozen fish
+100807;Fish;Frozen fish
+100808;Fish;Frozen fish
+100809;Fish;Frozen fish
+100810;Fish;Frozen fish
+100811;Fish;Frozen fish
+100812;Fish;Frozen fish
+100813;Fish;Frozen fish
+100814;Fish;Frozen fish
+100815;Fish;Frozen fish
+100816;Fish;Frozen fish
+100817;Fish;Frozen fish
+100818;Fish;Frozen fish
+100819;Fish;Frozen fish
+100820;Fish;Frozen fish
+500101;IT;HARDWARE
+500102;IT;SOFTWARE
+500103;IT;IT components
+500104;IT;Printers and accessories
+500105;IT;Telephones and communication
+500106;IT;Accessories
+500107;IT;IT consumables
+500201;IT;Video/audio
+500202;IT;Video/audio
+500203;IT;Video/audio
+500204;IT;Video/audio
+500205;IT;Video/audio
+500301;IT;Telephones (wireline)
+500302;IT;Mobile phones
+500303;IT;Phone accessories
+500401;Appliances;Appliances
+500402;Appliances;Appliances
+500403;Appliances;Appliances
+500404;Appliances;Appliances
+500405;Appliances;Appliances
+500406;Appliances;Appliances
+500407;Appliances;Appliances
+500408;Appliances;Appliances
+500409;Appliances;Appliances
+500501;Appliances;Appliances
+500502;Appliances;Appliances
+500503;Appliances;Appliances
+500504;Appliances;Appliances
+500505;Appliances;Appliances
+500506;Appliances;Appliances
+500601;Appliances;Home comfort appliances
+500602;Appliances;Home comfort appliances
+500603;Appliances;Home comfort appliances
+500604;Appliances;Home comfort appliances
+500605;Appliances;Home comfort appliances
+500606;Appliances;Home comfort appliances
+500607;Appliances;Home comfort appliances
+500701;IT;Music
+500702;IT;Video
+500703;IT;Games
+510101;Clothes;Clothing (man)
+510102;Clothes;Clothing (man)
+510103;Clothes;Clothing (man)
+510104;Clothes;Clothing (man)
+510105;Clothes;Clothing (man)
+510106;Clothes;Clothing (man)
+510107;Clothes;Clothing (man)
+510108;Clothes;Clothing (man)
+510201;Clothes;Clothing (women)
+510202;Clothes;Clothing (women)
+510203;Clothes;Clothing (women)
+510204;Clothes;Clothing (women)
+510205;Clothes;Clothing (women)
+510206;Clothes;Clothing (women)
+510207;Clothes;Clothing (women)
+510208;Clothes;Clothing (women)
+510301;Children products;Clothing (children 2-7)
+510302;Children products;Clothing (children 2-7)
+510303;Children products;Clothing (children 2-7)
+510304;Children products;Clothing (children 2-7)
+510305;Children products;Clothing (children 2-7)
+510306;Children products;Clothing (children 2-7)
+510307;Children products;Clothing (children 2-7)
+510401;Children products;Clothing (boy 8-16)
+510402;Children products;Clothing (boy 8-16)
+510403;Children products;Clothing (boy 8-16)
+510404;Children products;Clothing (boy 8-16)
+510405;Children products;Clothing (boy 8-16)
+510406;Children products;Clothing (boy 8-16)
+510501;Children products;Clothing (baby girl 2-7)
+510502;Children products;Clothing (baby girl 2-7)
+510503;Children products;Clothing (baby girl 2-7)
+510504;Children products;Clothing (baby girl 2-7)
+510505;Children products;Clothing (baby girl 2-7)
+510506;Children products;Clothing (baby girl 2-7)
+510507;Children products;Clothing (baby girl 2-7)
+510508;Children products;Clothing (baby girl 2-7)
+510509;Children products;Clothing (baby girl 2-7)
+510601;Children products;Clothing (girl 8-16)
+510602;Children products;Clothing (girl 8-16)
+510603;Children products;Clothing (girl 8-16)
+510604;Children products;Clothing (girl 8-16)
+510605;Children products;Clothing (girl 8-16)
+510606;Children products;Clothing (girl 8-16)
+510607;Children products;Clothing (girl 8-16)
+510608;Children products;Clothing (girl 8-16)
+510701;Baby products;Clothing (0-36 months)
+510702;Baby products;Clothing (0-36 months)
+510703;Baby products;Clothing (0-36 months)
+510704;Baby products;Clothing (0-36 months)
+510705;Baby products;Clothing (0-36 months)
+510706;Baby products;Clothing (0-36 months)
+510801;Underware;Underware (M)
+510802;Underware;Underware (W)
+510803;Underware;Underware (2-12)
+510804;Underware;Underware (2-12)
+510805;Underware;Underware (0-36 months)
+510901;Underware;Man socks
+510902;Underware;Woman socks
+510903;Children products;Socks 2-12 yo
+510904;Children products;Socks 2-12 yo
+510905;Baby products;Socks 0-36 months
+511001;Sports;Sports apparel - soccer
+511002;Sports;Sports apparel - basket
+511003;Sports;Sports apparel - other
+511004;Sports;Sports apparel - other
+511005;Sports;Sports apparel - other
+511006;Sports;Sports apparel - other
+511007;Sports;Sports apparel - other
+511008;Sports;Sports apparel - other
+511009;Sports;Sports apparel - other
+511010;Sports;Sports apparel - other
+511011;Sports;Sports apparel - other
+511101;Clothes;Women accessories
+511102;Clothes;Man accessories
+511103;Children products;Baby/children accessories
+511104;Clothes;Unisex accessories
+511201;Clothes;Man shoes
+511202;Clothes;Woman shoes
+511203;Children products;Child (M) shoes
+511204;Children products;Child (F) shoes
+511205;Baby products;Baby shoes
+511301;Products for house;Home texture
+511302;Products for house;Home texture
+511303;Products for house;Home texture
+511304;Products for house;Home texture
+511305;Products for house;Home texture
+511306;Products for house;Home texture
+520101;Garden products;Garden products
+520102;Garden products;Garden products
+520103;Garden products;Garden products
+520104;Garden products;Garden products
+520105;Garden products;Garden products
+520106;Garden products;Garden products
+520107;Garden products;Garden products
+520108;Garden products;Garden products
+520109;Garden products;Garden products
+520110;Garden products;Garden products
+520111;Garden products;Garden products
+520112;Garden products;Garden products
+520113;Garden products;Garden products
+520114;Garden products;Garden products
+520201;Car care;Car Care
+520202;Car care;Motorbike care
+520301;Products for house;DIY
+520302;Products for house;DIY
+520303;Products for house;DIY
+520304;Products for house;DIY
+520305;Products for house;DIY
+520306;Products for house;DIY
+520307;Products for house;DIY
+520308;Products for house;DIY
+520309;Products for house;DIY
+520310;Products for house;DIY
+520311;Products for house;DIY
+520312;Products for house;DIY
+520313;Products for house;DIY
+520314;Products for house;DIY
+520315;Products for house;DIY
+540101;Products for kitchen;tableware
+540102;Products for kitchen;tableware
+540103;Products for kitchen;tableware
+540104;Products for kitchen;tableware
+540105;Products for kitchen;tableware
+540106;Products for kitchen;tableware
+540201;Products for kitchen;Pans and cooking devices
+540202;Products for kitchen;Pans and cooking devices
+540301;Products for kitchen;Knives
+540302;Products for kitchen;kitchenware
+540401;Products for kitchen;Boxes for food
+540501;Products for kitchen;tableware
+540502;Products for kitchen;kitchenware
+540601;Products for house;House accessories
+540603;Products for house;House accessories
+540604;Products for house;House accessories
+550101;Products for fun;Stationary
+550102;Products for fun;Stationary
+550103;Products for fun;Stationary
+550104;Products for fun;Stationary
+550105;Products for fun;Stationary
+550106;Products for fun;Stationary
+550107;Products for fun;Stationary
+550108;Products for fun;Stationary
+550109;Products for fun;Stationary
+550201;Products for fun;Books
+550202;Products for fun;Books
+550203;Products for fun;Books
+550204;Products for fun;Books
+550205;Products for fun;Books
+550206;Products for fun;Books
+550207;Products for fun;Books
+550208;Products for fun;Books
+550301;Products for fun;Newspaper
+550302;Products for fun;Newspaper
+550303;Products for fun;Newspaper
+550304;Products for fun;Newspaper
+550305;Products for fun;Newspaper
+560101;Children products;Toys
+560102;Children products;Toys
+560103;Children products;Toys
+560104;Children products;Toys
+560105;Children products;Toys
+560106;Children products;Toys
+560107;Children products;Toys
+560108;Children products;Toys
+560109;Children products;Toys
+560110;Children products;Toys
+560111;Children products;Toys
+560112;Children products;Toys
+560201;Children products;Toys
+560202;Children products;Toys
+560301;Children products;Christmas gadgets
+560302;Children products;Christmas gadgets
+570101;Garden products;Garden furniture
+570102;Garden products;Garden furniture
+570103;Garden products;Garden furniture
+570104;Garden products;Garden furniture
+570105;Garden products;Garden furniture
+570106;Garden products;Garden furniture
+570107;Garden products;Garden furniture
+570108;Garden products;Garden furniture
+570109;Garden products;Garden furniture
+570110;Garden products;Garden furniture
+570111;Garden products;Garden furniture
+570112;Garden products;Garden furniture
+570113;Garden products;Garden furniture
+570114;Garden products;Garden furniture
+570115;Garden products;Garden furniture
+570201;Travel;Camping
+570202;Travel;Camping
+570203;Travel;Camping
+570204;Travel;Camping
+570205;Travel;Camping
+570206;Travel;Camping
+570207;Travel;Camping
+570208;Travel;Camping
+570209;Travel;Camping
+570210;Travel;Camping
+570211;Travel;Camping
+570212;Travel;Camping
+570213;Travel;Camping
+570214;Travel;Camping
+570301;Sports;Sport accessories
+570302;Sports;Sport accessories
+570303;Sports;Sport accessories
+570304;Sports;Sport accessories
+570305;Sports;Sport accessories
+570306;Sports;Sport accessories
+570307;Sports;Sport accessories
+570308;Sports;Sport accessories
+570309;Sports;Sport accessories
+570310;Sports;Sport accessories
+570311;Sports;Sport accessories
+570312;Sports;Sport accessories
+570313;Sports;Sport accessories
+570401;Scooters;Scooters
+570402;Car care;Accessories for motorbikes
+570403;Car care;Clothing for motorbikes
+570501;Travel;Luggages
+570502;Travel;Luggages
+570503;Travel;Luggages
+570504;Travel;Luggages
+570505;Travel;Luggages
+570506;Travel;Luggages
+570507;Travel;Luggages
+570508;Travel;Luggages
+570509;Travel;Luggages
+580101;Additional services;Telephone credit
+580102;Additional services;Telephone credit
+580103;Additional services;Telephone credit
+580104;Additional services;Telephone credit
+580105;Additional services;Telephone credit
+580201;Additional services;Gift cards
+580202;Additional services;Gift cards
+580301;Additional services;Lottery
+580302;Additional services;Lottery
+580303;Additional services;Lottery
+580401;Additional services;Payment services
+580402;Additional services;Payment services
+580403;Additional services;Payment services
+580501;Additional services;Fuel
+580502;Additional services;Car wash
+580503;Additional services;Insurance
+580504;Additional services;Legal support
+580505;Additional services;Restaurant
+580506;Additional services;Home delivery
