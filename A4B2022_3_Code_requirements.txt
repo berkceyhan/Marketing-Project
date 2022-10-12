@@ -1,0 +1,18 @@
+Required libraries to be able to run MBA_Code.py:
+pandas
+numpy
+matplotlib
+mlxtend
+networkx
+
+
+Required libraries to run RegFM_Churn_Analysis.R:
+plyr
+dplyr
+lubridate
+rfm
+writexl
+markovchain
+diagram
+expm
+pracma
